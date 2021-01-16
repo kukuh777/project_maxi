@@ -1,0 +1,151 @@
+{
+    "name": "Maxi Komputer",
+    "descriptions": "Maxi Komputer merupakan salah satu toko komputer termurah sejagad Jogjakarta",
+    "tagline": "Kepuasan anda adalah semangat positif bagi kami untuk menjadi lebih baik dalam melayani.",
+    "email": "maxi.komputer14@gmail.com",
+    "email2": "grosir.komputer123@gmail.com",
+    "call": "Call (0274) 581158",
+    "whatsapp": "Whatsapp 0857 2799 7753",
+    "address1": "Jl. Rajawali No. 6",
+    "address2": "Jl. Rajawali No. 6, Mrican, Caturtunggal",
+    "address3": "Jl. Rajawali No. 6, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+    "time": "Daily 09.00 - 21.00",
+    "time1": "Senin - Jumat : 09.00 - 21.00",
+    "time2": "Sabtu - Minggu : 09.00 - 16.00",
+    "catalogs": [
+        { 
+          "title": "laptops & pc", 
+          "src": "https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fcatalog%2Fcomputers.svg?alt=media&token=bcbdddff-d095-4be3-a32d-df066faac1ba", 
+          "link": "",
+          "sub1": "laptops", 
+          "link1": "",
+          "sub2": "pc", 
+          "link2": "",
+          "sub3": "peripheral", 
+          "link3": "",
+          "sub4": "keyboard & mouse", 
+          "link4": "",
+          "sub5": "accessories", 
+          "link5": ""
+        },
+        { 
+          "title": "phones & gadgets", 
+          "src": "https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fcatalog%2Fphones.svg?alt=media&token=0ca8c31b-6f7f-4c59-ad60-38161f0fd894", 
+          "link": "",
+          "sub1": "gadgets", 
+          "link1": "",
+          "sub2": "powerbanks", 
+          "link2": "",
+          "sub3": "charger & batteries", 
+          "link3": "",
+          "sub4": "gamepads", 
+          "link4": "",
+          "sub5": "phone accessories", 
+          "link5": ""
+        },
+        { 
+          "title": "monitors & projectors", 
+          "src": "https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fcatalog%2Fmonitors.svg?alt=media&token=4f8be34f-ae62-4ad3-b5ae-9b85e6a18d49", 
+          "link": "",
+          "sub1": "monitors", 
+          "link1": "",
+          "sub2": "satellite & tv tuner", 
+          "link2": "",
+          "sub3": "projectors", 
+          "link3": "",
+          "sub4": "converters & connectors", 
+          "link4": "",
+          "sub5": "cables & accessories", 
+          "link5": ""
+        },
+        { 
+          "title": "printers, inks & cartridges", 
+          "src": "https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fcatalog%2Fprinters.svg?alt=media&token=37e1cd44-5e70-4964-aadb-31eaa7c28ba5", 
+          "link": "",
+          "sub1": "printers", 
+          "link1": "",
+          "sub2": "inks", 
+          "link2": "",
+          "sub3": "cartridges", 
+          "link3": "",
+          "sub4": "papers & accessories", 
+          "link4": ""
+        },
+        { 
+          "title": "games & accessories", 
+          "src": "https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fcatalog%2Fgames.svg?alt=media&token=a54e01b8-9957-4a7c-bf64-a4942208efeb", 
+          "link": "",
+          "sub1": "games", 
+          "link1": "",
+          "sub2": "softwares", 
+          "link2": "",
+          "sub3": "joysticks & gamepads", 
+          "link3": "",
+          "sub4": "game accessories", 
+          "link4": ""
+        }
+      ],
+      "pages": [
+        {"title": "Catalog", "link":"/catalog"},
+        {"title": "Product", "link":"/products"},
+        {"title": "Favorites", "link":"/favorites"},
+        {"title": "Cart", "link":"/cart"},
+        {"title": "Checkout", "link":"/checkout"},
+        {"title": "Personal", "link":"/personal"},
+        {"title": "Settings", "link":"/settings"},
+        {"title": "Article", "link":"/articles"},
+        {"title": "FAQ", "link":"/faq"}
+      ],
+      "brands": [
+        {"title":"Acer","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Facer.svg?alt=media&token=3e1e79b7-c51f-490c-923f-a6ce112af0bc", "link":""},
+        {"title":"Asus","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Fasus.svg?alt=media&token=7885c82d-1b3a-463e-aadf-08cb3e7d5fe1", "link":""},
+        {"title":"HP","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Fhp.svg?alt=media&token=eb289808-2ee9-49b4-a891-25ea5470faaf", "link":""},
+        {"title":"Lenovo","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Flenovo.svg?alt=media&token=3019c882-10e1-4206-85ac-512034dbaa0f", "link":""},
+        {"title":"Intel","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Fintel.svg?alt=media&token=eac28b8d-9b3d-4962-805e-8327b998759e", "link":""},
+        {"title":"AMD","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Famd.svg?alt=media&token=2f7892dc-4ca2-4910-811c-b1f7272d8f6b", "link":""},
+        {"title":"Epson","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Fepson.svg?alt=media&token=35200030-d311-4675-9abc-d1860369777f", "link":""},
+        {"title":"Gigabyte","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Fgigabyte.svg?alt=media&token=73c88dd9-3d6d-4ecc-b18b-b250d7938272", "link":""},   
+        {"title":"Canon","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Fcanon.svg?alt=media&token=5a198c75-6328-4365-a7ef-74474e81e3d5", "link":""},
+        {"title":"LG","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Flg.svg?alt=media&token=958e8bd6-9cd0-4b7e-8788-191718aa80d7", "link":""},      
+        {"title":"Asrock","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Fasrock.svg?alt=media&token=d15217bc-1806-42ba-8ad0-4e622251bbd6", "link":""},
+        {"title":"Logitech","src":"https://firebasestorage.googleapis.com/v0/b/pwa-maxi.appspot.com/o/images%2Fbrands%2Flogitech.svg?alt=media&token=a154d6c8-4134-4c00-8978-cc5325dd60b2", "link":""}
+      ],
+      "footer1": [
+        { "title": "Catalog", "link": "" },
+        { "title": "Brands", "link": "/brands" },
+        { "title": "Delivery", "link": "" },
+        { "title": "FAQ", "link": "/faq" },
+        { "title": "Payment", "link": "" }
+     ],
+     "footer2": [
+        { "title": "About", "link": "/about" },
+        { "title": "Contact", "link": "/contact" },
+        { "title": "Blog", "link": "/blog" },
+        { "title": "News", "link": "" }
+     ],
+     "marketplace": [
+        {"title":"Tokopedia", "src":"../../images/marketplaces/tokopedia.svg", "alt": "tokopedia", "link": "https://www.tokopedia.com/maxikomputer", "desc":"Ingin transksi di Tokopedia dan dapat Cashback?"},
+        {"title":"Bukalapak", "src":"../../images/marketplaces/bukalapak.svg", "alt": "bukalapak", "link": "https://bukalapak.com", "desc":"Ambil barang langsung dengan fitur Bukalapak?"},
+        {"title":"Shopee", "src":"../../images/marketplaces/shopee.svg", "alt": "shopee", "link": "https://shopee.co.id/grosirkomputeryogya", "desc":"Gratis Ongkir atau Cashback dari Shopee?"},
+        {"title":"Blibli", "src":"../../images/marketplaces/blibli.svg", "alt": "blibli", "link": "https://blibli.com", "desc":"Ingin harga murah dari Flash Sale Blibli?"},
+        {"title":"OLX", "src":"../../images/marketplaces/olx.svg", "alt": "olx", "link": "https://olx.co.id", "desc":"Ribet pakai Kurir dan ingin COD via OLX?"}
+    ],
+    "faqs": [
+      {
+          "question":"Apakah transaksi melalui website ini aman dan terjamin?",
+          "detail":"Kami dapat memberikan jaminan 100% bahwa transaksi melalui website ini aman. Jika anda ragu, anda bisa mengunjungi Toko Offline kami di"
+      },
+      {
+        "question":"Saya masih ragu untuk melakukan transaksi melalui website ini? Apakah ada metode lain?",
+        "detail":"Selain dapat mengunjungi Toko Offline kami, anda bisa berkunjung ke toko kami yang sudah tersedia di Marketplace di Indonesia pada menu di bawah."
+      },
+      {
+        "question":"Apakah barang yang di jual di website ini Original dan Baru?",
+        "detail":"Jika ada barang OEM atau KW serta kondisi Second, maka akan kami infokan pada deskripsi item yang bersangkutan. Untuk barang status Original kami berikan jaminan 100% dan garansi uangk kembali jika barang OEM atau KW."
+      },
+      {
+        "question":"Apakah harga sudah pas atau masih boleh nego?",
+        "detail":"Harga yang kami berikan bersifat NETT atau sudah pas. Kami memberikan harga termurah se-Jogja Raya. Akan tetapi kami memberikan potongan untuk pembelian partai besar. Setiap potongan akan kami sesuaikan dengan banyaknya item yang di beli."
+      }
+    ]
+}
